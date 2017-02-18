@@ -25,7 +25,11 @@ You will need to create a new div element with an id of "hours3". Inside this di
 Hours: 6pm - 12am Sun - Sat
 
 Append this div element to the div id "text3"*/
+var ramenDate = document.createElement("div");
+ramenDate.id = "hours3";
+ramenDate.innerHTML = "Hours: 6pm - 12am Sun - Sat";
 
+text3.appendChild(ramenDate);
 
 //4. Kam Bowl
 /*Kam Bowl got no spare time to update their info and business is suffering! Help them regain their kingpin status again.
