@@ -6,7 +6,7 @@ Also don't forget to run your live-server for this assignment.*/
 /*Despite being the cat's meow, Kapiolani Coffee Shop's current rating is n/a. Let's keep the hungry fans happy by changing the current ranking to:
 
 Rating: 5 Stars*/
-
+rating1.innerHTML = "Rating: 5 Stars";
 
 //2. Sunrise Restaurant
 /*No rise and shine for the Sunrise Restaurant, as their price and address needs some serious updating. Bring in some sunshine by changing the price and address to the following:
