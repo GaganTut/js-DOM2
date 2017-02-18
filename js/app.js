@@ -14,6 +14,8 @@ rating1.innerHTML = "Rating: 5 Stars";
 Price: $$$
 Adress: 525 Kapahulu Ave, Honolulu, HI 96815*/
 
+price2.innerHTML = "Price: $$$";
+addy2.innerHTML = "Adress: 525 Kapahulu Ave, Honolulu, HI 96815";
 
 //3. Ramen Nakamura
 /*Literally, where did the time go? Ramen Nakamura is missing the hours section! This mistake is timeless.
